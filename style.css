@@ -1,0 +1,31 @@
+html{
+    background-color:skyblue;
+}
+
+h1{
+    background-color:beige;
+    color: rgb(12, 26, 32);
+    border: 2px solid rgb(12, 26, 32);
+    text-align: center;
+}
+
+h2{
+    background-color:whitesmoke ;
+}
+
+.may{
+    color: rgb(12, 26, 32);
+    border:2px solid rgb(12, 26, 32);
+    background-color:rgb(19, 65, 109);
+    text-align: center;
+}
+
+#sunday{
+    width: 10%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+
+
+
+
